@@ -33,6 +33,7 @@ gem 'font-awesome-sass', '~> 4.7'
 gem 'simple_form'
 ruby '2.4.3'
 gem 'figaro'
+gem 'cloudinary'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
