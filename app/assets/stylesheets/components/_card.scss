@@ -17,11 +17,13 @@
   left: 50px;
   font-size: 30px;
   justify-content: center;
+  a {
+    color: white;
+  }
 }
 .card h2 :hover {
   text-decoration: none;
 }
 
-a {
-  color: white !important;
-}
+
+
