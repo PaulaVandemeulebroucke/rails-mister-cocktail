@@ -2,8 +2,8 @@ import Typed from 'typed.js';
 
 function loadDynamicBannerText() {
   new Typed('#banner-typed-text', {
-    strings: ["Forget your life, drink some cocktails !!!"],
-    typeSpeed: 50,
+    strings: ["Want to find love ?", "Drink a cocktail first."],
+    typeSpeed: 60,
     loop: true
   });
 }
