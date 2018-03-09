@@ -13,13 +13,15 @@
 .card h2 {
   position: absolute;
   text-align: center;
-  color: #fffddb !important;
   bottom: 100px;
   left: 50px;
-  font-size: 20px;
+  font-size: 30px;
   justify-content: center;
 }
 .card h2 :hover {
   text-decoration: none;
 }
 
+a {
+  color: white !important;
+}
