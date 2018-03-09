@@ -1,22 +1,19 @@
 .card {
-  display: flex;
-  height: 175px;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
-  background-size: cover !important;
-  background-position: center;
-  color: white;
-  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2));
   position: relative;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.6);
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2));
   text-align: center;
-  margin-bottom: 20px;
+  margin: 30px;
 }
 
 .card h2 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  position: absolute;
   text-align: center;
   color: #fffddb !important;
+  bottom: 100px;
+  left: 50px;
+  font-size: 20px;
+  justify-content: center;
 }
 .card h2 :hover {
   text-decoration: none;
